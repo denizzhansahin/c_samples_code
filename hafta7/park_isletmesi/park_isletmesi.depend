@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672503803 source:/home/denshn/Belgeler/odev_C/hafta6/hafta7/park_isletmesi/main.c
+	<stdio.h>
+	<stdlib.h>
+

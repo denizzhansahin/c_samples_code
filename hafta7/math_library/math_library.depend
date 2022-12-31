@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672498065 source:/home/denshn/Belgeler/odev_C/hafta6/hafta7/math_library/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
